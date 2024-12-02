@@ -1,4 +1,10 @@
-## Hi there 👋
+# Manuel Garcin
+
+## Projet professionnel
+
+Mon objectif est d'intégrer un studio de developpement.
+
+! [image de Mario](C:\Users\manue\Desktop\Pimp my Github\manuel-garcin\Mario.jpg)
 
 <!--
 **manuel-garcin/manuel-garcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
