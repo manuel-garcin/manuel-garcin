@@ -10,7 +10,7 @@ Je suis actuellement étudiant à l'**école La Plateforme** Marseille, en premi
 
 ![image_jeu](./image%20g%C3%A9n%C3%A9r%C3%A9e%202.webp)
 
-Des débuts modestes `      ` Vers une maitrise des outils de developpement
+*Des débuts modestes vers une maitrise des outils de developpement*
 
 ---
 
@@ -18,7 +18,11 @@ Des débuts modestes `      ` Vers une maitrise des outils de developpement
 
 ![badge_VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+Utilisation de Visual Studio Code pour les différents projets.
+
 ![badge_python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+Création d'un jeu du morpion en langage Python.
 
 ![badge_HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -26,9 +30,12 @@ Des débuts modestes `      ` Vers une maitrise des outils de developpement
 
 Création d'un site de fan en HTML et CSS.
 
-Création d'un jeu du morpion en langage Python
+Ajouter logo Git et GitHub.
+Utilisation des outils de version.
 
 Nous avons également abordé les configurations matérielles, la virtualisation, les lignes de commandes sous Windows et Linux et le ping.
+
+---
 
 
 <!--
